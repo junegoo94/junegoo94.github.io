@@ -21,7 +21,7 @@ repository               : "junegoo94/junegoo94.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "./images/june_photo_linkedin.jpg"
+  avatar           : "JMGOO_photo.png"
   name             : "June Moh Goo"
   pronouns         : # example: "He/his"  
   bio              : "PhD student in 3D Computer Vision"
