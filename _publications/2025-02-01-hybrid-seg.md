@@ -4,11 +4,11 @@ authors: <b>June Moh Goo</b>, Xenios Milidonis, Alessandro Artusi, Jan Boehm, Ca
 collection: publications
 category: manuscripts
 permalink: /publication/2025-02-01-hybrid-seg
-excerpt: 'This paper is about the number 3. The number 4 is left for future work.'
+excerpt: 'This paper introduces Hybrid-Segmentor, a deep learning model that combines CNN and Transformer architectures to capture both local details and global patterns for precise crack detection and segmentation across diverse surfaces, achieving new state-of-the-art performance.'
 date: 2025-02-01
-venue: 'Journal 1'
+venue: 'Automation in Construction'
 slidesurl: 'http://academicpages.github.io/files/slides3.pdf'
-paperurl: 'http://academicpages.github.io/files/paper3.pdf'
+paperurl: 'https://www.sciencedirect.com/science/article/pii/S0926580524006964'
 citation: 'Your Name, You. (2015). &quot;Paper Title Number 3.&quot; <i>Journal 1</i>. 1(3).'
 teaser: hybrid_segmentor.png
 ---
