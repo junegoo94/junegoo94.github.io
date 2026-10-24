@@ -19,7 +19,10 @@ nav_order: 2
 
 ### Visiting Ph.D. Student, Deep Learning for Point Clouds
 
-**The Hong Kong Polytechnic University** · Sep 2026 – Jan 2027
+**The Hong Kong Polytechnic University (PolyU)** · Sep 2026 – Jan 2027
+
+- [Research Student Attachment Programme (RSAP)](https://www.polyu.edu.hk/gs/prospective-students/rsap_incoming/)
+- Host supervisor: [Prof. Bing Wang](https://bingcs.github.io/)
 
 ---
 
