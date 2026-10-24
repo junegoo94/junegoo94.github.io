@@ -26,7 +26,7 @@ latest_posts:
   limit: 3 # leave blank to include all the blog posts
 ---
 
-Hi! I am currently pursuing a Ph.D. at [University College London (UCL)](https://www.ucl.ac.uk/) under the supervision of [Prof. Jan Boehm](https://www.ucl.ac.uk/civil-environmental-geomatic-engineering/people/dr-jan-boehm), and I am an active member of the [Photogrammetry and 3D Imaging](https://www.ucl.ac.uk/civil-environmental-geomatic-engineering/research/groups-centres-and-sections/photogrammetry-and-3d-imaging) research group.
+Hi! I am currently pursuing a Ph.D. at [University College London (UCL)](https://www.ucl.ac.uk/) under the supervision of [Prof. Jan Boehm](https://profiles.ucl.ac.uk/27481-jan-boehm), and I am an active member of the [Photogrammetry and 3D Imaging](https://www.ucl.ac.uk/civil-environmental-geomatic-engineering/research/groups-centres-and-sections/photogrammetry-and-3d-imaging) research group.
 
 Before starting my Ph.D., I worked as a Computer Vision Research Intern at [DeepCamera Group](https://deepcamera.cyens.org.cy/), [CYENS](https://cyens.org.cy/mrg/ripe/), in Cyprus, where I had the opportunity to collaborate with supervisors [Dr. Alessandro Artusi](https://cyens.org.cy/personnel/alessandro-artusi/) and [Dr. Xenios Milidonis](https://www.linkedin.com/in/xeniosmilidonis/).
 
