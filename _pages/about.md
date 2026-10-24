@@ -28,6 +28,8 @@ latest_posts:
 
 Hi! I am currently pursuing a Ph.D. at [University College London (UCL)](https://www.ucl.ac.uk/) under the supervision of [Prof. Jan Boehm](https://profiles.ucl.ac.uk/27481-jan-boehm), and I am an active member of the [Photogrammetry and 3D Imaging](https://www.ucl.ac.uk/civil-environmental-geomatic-engineering/research/groups-centres-and-sections/photogrammetry-and-3d-imaging) research group.
 
+My Ph.D. is funded by an **EPSRC Industrial CASE studentship** in partnership with [Ordnance Survey](https://www.ordnancesurvey.co.uk/), Great Britain's national mapping agency, together with the **UCL ISAD tuition fee support award**. I am co-supervised by Prof. Stuart Robson (UCL), and by Dr. Stefano Cavazzi and James Gillespie at Ordnance Survey.
+
 Before starting my Ph.D., I worked as a Computer Vision Research Intern at [DeepCamera Group](https://deepcamera.cyens.org.cy/), [CYENS](https://cyens.org.cy/mrg/ripe/), in Cyprus, where I had the opportunity to collaborate with supervisors [Dr. Alessandro Artusi](https://cyens.org.cy/personnel/alessandro-artusi/) and [Dr. Xenios Milidonis](https://www.linkedin.com/in/xeniosmilidonis/).
 
 My research passion lies in the intersection of Cross-Sensor Label-Efficient Learning and 3D point cloud data, and their applications across various domains. Recent work includes:
