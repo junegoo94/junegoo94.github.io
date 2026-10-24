@@ -32,7 +32,7 @@ Before starting my Ph.D., I worked as a Computer Vision Research Intern at [Deep
 
 My research passion lies in the intersection of Cross-Sensor Label-Efficient Learning and 3D point cloud data, and their applications across various domains. Recent work includes:
 
-- **LiDAR super-resolution** for autonomous driving: real-time, frequency-aware models ([Flash](https://doi.org/10.1109/ICIP61757.2026.11630360), ICIP 2026), a [comprehensive survey](https://arxiv.org/abs/2602.15904) (IEEE IV 2026), and sensor domain adaptation for 3D object detection ([ISPRS Annals 2026](https://doi.org/10.5194/isprs-annals-XI-2-2026-93-2026)).
+- **LiDAR super-resolution** for autonomous driving: real-time, frequency-aware models ([Flash](https://doi.org/10.1109/ICIP61757.2026.11630360), ICIP 2026), a [comprehensive survey](https://doi.org/10.1109/IV66570.2026.11624031) (IEEE IV 2026), and sensor domain adaptation for 3D object detection ([ISPRS Annals 2026](https://doi.org/10.5194/isprs-annals-XI-2-2026-93-2026)).
 - **3D reconstruction and point clouds**: end-to-end AI-based multi-view 3D reconstruction, zero-shot building detection in mobile LiDAR, and target measurement in unordered point clouds.
 - **Vision for civil infrastructure**: fine-grained crack segmentation with [Hybrid-Segmentor](https://doi.org/10.1016/j.autcon.2024.105960) (Automation in Construction, 2025).
 
