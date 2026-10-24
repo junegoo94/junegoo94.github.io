@@ -30,6 +30,8 @@ nav_order: 2
 
 **University College London (UCL)** · 2021 – 2023
 
+- Dissertation carried out in collaboration with the [DeepCamera Group, CYENS](https://deepcamera.cyens.org.cy/) (Cyprus) and published in _Automation in Construction_: [Hybrid-Segmentor: Hybrid Approach for Automated Fine-Grained Crack Segmentation in Civil Infrastructure](https://doi.org/10.1016/j.autcon.2024.105960)
+
 ---
 
 ### M.Sc., Data Science
