@@ -136,7 +136,7 @@ nav_order: 1
   </div>
 
   <div class="edu-item">
-    <img class="edu-logo" src="{{ '/assets/img/education/bristol.svg' | relative_url }}" alt="University of Bristol logo">
+    <img class="edu-logo" src="{{ '/assets/img/education/bristol.png' | relative_url }}" alt="University of Bristol logo">
     <div class="edu-body">
       <h3>B.Eng., Engineering Mathematics</h3>
       <div><span class="edu-school">University of Bristol</span></div>
