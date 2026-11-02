@@ -1,8 +1,9 @@
 {% comment %}
   Site-local hook for al_folio_core's bib layout (included right before the
-  periodical line is assembled). Appends the bib `event` field after the year,
-  e.g. "ISPRS Annals ..., 2026 (ISPRS Congress 2026)".
+  periodical line is assembled). Appends the event from _data/pub_events.yml
+  after the year, e.g. "ISPRS Annals ..., 2026 (ISPRS Congress 2026)".
 {% endcomment %}
-{%- if entry.event -%}
-  {%- capture entryyear -%}{{ entryyear }} ({{ entry.event }}){%- endcapture -%}
+{%- assign pub_event = site.data.pub_events[entry.key] -%}
+{%- if pub_event -%}
+  {%- capture entryyear -%}{{ entryyear }} ({{ pub_event }}){%- endcapture -%}
 {%- endif -%}

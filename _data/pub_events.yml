@@ -1,0 +1,8 @@
+# Conference / event shown after the year on the publications page,
+# keyed by BibTeX key. Kept here so _bibliography/papers.bib stays untouched.
+goo2026sensor: ISPRS Congress 2026
+zeng2026camerapose: ISPRS Congress 2026
+goo2025e2e3d: 3rd GEOBENCH 2025
+goo2025checkerboard: ISPRS Geospatial Week 2025
+goo2024zeroshotlidar: ISPRS TC2 Symposium 2024
+zeng2024buildingage: ISPRS TC2 Symposium 2024
