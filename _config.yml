@@ -403,6 +403,7 @@ filtered_bibtex_keywords:
     code,
     dimensions,
     eprint,
+    event,
     firstauthor,
     google_scholar_id,
     hal,

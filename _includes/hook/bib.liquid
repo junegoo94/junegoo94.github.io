@@ -1,0 +1,8 @@
+{% comment %}
+  Site-local hook for al_folio_core's bib layout (included right before the
+  periodical line is assembled). Appends the bib `event` field after the year,
+  e.g. "ISPRS Annals ..., 2026 (ISPRS Congress 2026)".
+{% endcomment %}
+{%- if entry.event -%}
+  {%- capture entryyear -%}{{ entryyear }} ({{ entry.event }}){%- endcapture -%}
+{%- endif -%}
